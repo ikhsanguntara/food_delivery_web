@@ -100,7 +100,7 @@
         "socicon": "3.0.5",
         "sweetalert2": "^11.7.3",
         "yup": "0.29.0",
-        "zod": "^3.21.4"
+        "zod": "^3.22.3"
     },
     "devDependencies": {
         "copyfiles": "2.1.1",
